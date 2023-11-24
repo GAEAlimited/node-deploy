@@ -11,7 +11,6 @@ require (
 require (
 	github.com/beorn7/perks v1.0.0 // indirect
 	github.com/binance-chain/ledger-cosmos-go v0.9.9-binance.1 // indirect
-	github.com/btcsuite/btcd v0.20.1-beta // indirect
 	github.com/btcsuite/btcutil v0.0.0-20190425235716-9e5f4b9a998d // indirect
 	github.com/cosmos/go-bip39 v0.0.0-20180819234021-555e2067c45d // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
